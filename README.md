@@ -1,4 +1,4 @@
 mmartinson.github.io
 ====================
 
-Static site hosted on Pithub Pages
+Static personal blog hosted on Github Pages
